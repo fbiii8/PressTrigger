@@ -1,0 +1,9 @@
+/dist/
+/build/
+/.idea/
+/test01.py
+
+__pycache__/
+*.py[cod]
+*.zip
+config.json
